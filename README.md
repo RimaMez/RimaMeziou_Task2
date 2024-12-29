@@ -8,7 +8,7 @@ python -m venv env
 
 * Install the dependencies:
 pip install -r requirements.txt
-Then  
+ 
 pip install -U langchain-community
 
 * Please run the app:
