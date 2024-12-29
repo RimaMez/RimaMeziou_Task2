@@ -7,12 +7,15 @@ python -m venv env
  env\Scripts\activate
 
 * Install the dependencies:
-pip install -r requirements.txt \n
+pip install -r requirements.txt
+Then  
 pip install -U langchain-community
 
 * Please run the app:
 streamlit run app.py
 
 * Insert the FQA_data.txt file into the app and ask a question related to the text file.
+
+
 
 "# RimaMeziou_Task2" 
