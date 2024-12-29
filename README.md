@@ -7,7 +7,7 @@ python -m venv env
  env\Scripts\activate
 
 * Install the dependencies:
-pip install -r requirements.txt
+pip install -r requirements.txt \n
 pip install -U langchain-community
 
 * Please run the app:
